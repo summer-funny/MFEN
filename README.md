@@ -24,7 +24,6 @@ python trainer.py --dataset wiki --embed_dim 50 --prefix wiki_5shot
 
 
 # How to test
-To test the trained models, pls run as follows:
 
 #### Nell
 ```
